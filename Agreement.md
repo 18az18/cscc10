@@ -22,6 +22,7 @@ Division of work: each member will choose their part of work
 Submitting work:  when to submit: every time the project is modified
 		  who will submit: each member will submit their work
 		  who will review the submission: rest of the team will review the submission
+
 Contingency planning:  
 
 
